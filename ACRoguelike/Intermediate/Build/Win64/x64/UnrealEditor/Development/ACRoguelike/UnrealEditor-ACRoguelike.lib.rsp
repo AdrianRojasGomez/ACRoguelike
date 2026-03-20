@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ACRoguelike.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/UE Projects/ACRoguelike/ACRoguelike/Intermediate/Build/Win64/x64/ACRoguelikeEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/UE Projects/ACRoguelike/ACRoguelike/Intermediate/Build/Win64/x64/UnrealEditor/Development/ACRoguelike/ACRoguelike.cpp.obj"
+"C:/UE Projects/ACRoguelike/ACRoguelike/Intermediate/Build/Win64/x64/UnrealEditor/Development/ACRoguelike/PerModuleInline.gen.cpp.obj"
+"C:/UE Projects/ACRoguelike/ACRoguelike/Intermediate/Build/Win64/x64/UnrealEditor/Development/ACRoguelike/Default.rc2.res"
+/OUT:"C:/UE Projects/ACRoguelike/ACRoguelike/Intermediate/Build/Win64/x64/UnrealEditor/Development/ACRoguelike/UnrealEditor-ACRoguelike.lib"

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue projects\\acroguelike\\acroguelike\\source\\acroguelike\\acroguelike.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue projects\\acroguelike\\acroguelike\\intermediate\\build\\win64\\x64\\acroguelikeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\ue projects\\acroguelike\\acroguelike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\acroguelike\\definitions.acroguelike.h",
+            "c:\\ue projects\\acroguelike\\acroguelike\\source\\acroguelike\\acroguelike.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

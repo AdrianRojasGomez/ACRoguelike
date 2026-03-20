@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ACRoguelike",
+			"Path": "..\\Source\\ACRoguelike.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ACRoguelikeEditor",
+			"Path": "..\\Source\\ACRoguelikeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
