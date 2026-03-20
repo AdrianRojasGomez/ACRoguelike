@@ -41,7 +41,6 @@
 *.VC.db
 *.VC.opendb
 .vsconfig
-.idea/
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -74,3 +73,16 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+*.pdb
+*.pdb.sig
+
+# Rider / IDEs
+.idea/
+.rider/
+**/.Rider/
